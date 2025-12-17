@@ -12,7 +12,7 @@
 
 ## 🌟 Features That Set Us Apart
 
-Experience music like never before with our feature-rich music player:
+Experience music like never before with our feature-rich music player::
 
 ### 🎯 Core Streaming Features
 - **YouTube/YouTube Music Integration** - Stream directly from YouTube and YouTube Music Your Choice 
